@@ -43,7 +43,7 @@
 
 # 方法
 青山学院大学地球社会共生学部の教員への取材に先立ち、自身の所属ゼミである古橋大地教授の研究室の間取り図化を行った。
-
+<img>(https://user-images.githubusercontent.com/50697920/106694981-fde9af80-661c-11eb-9df0-8c9650edca0a.jpg)
 
 
 
