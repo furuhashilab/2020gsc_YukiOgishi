@@ -58,7 +58,7 @@
 <img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%">
 <img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%">
 <img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%"><img src="　　　" width="50%">
-<img src="　　　" width="50%"><img src="　　　" width="50%">
+<img src="　　　" width="50%">
 <br>
 取材を行う中で、間取り図化をする際にドアから入ったときの印象を表現するためには、窓を上部にドアを下部にした方がよいと感じ、この向きに統一した。<br>
 また前提として、本年度からいらっしゃった先生方はまだあまりものを入れていない状態であること、またリモート授業が行われていた関係から本や教材などをご自宅に持ち帰られている方もいらっしゃるので、あくまでも取材当時の様子であることをご承知いただきたい。<br>
@@ -75,6 +75,7 @@
 <img src="https://user-images.githubusercontent.com/50697920/106629178-ea5b2c00-65bd-11eb-89c5-d7b275365970.jpeg" width="50%">
 <img src="https://user-images.githubusercontent.com/50697920/106629176-e9c29580-65bd-11eb-94d2-cb104436c237.jpeg" width="50%">
 <img src="https://user-images.githubusercontent.com/50697920/106629174-e929ff00-65bd-11eb-94ca-bc4a3e42b981.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/50697920/106629191-ed561c80-65bd-11eb-93e0-9f75883f8210.jpeg" width="50%">
 <img src="https://user-images.githubusercontent.com/50697920/106694981-fde9af80-661c-11eb-9df0-8c9650edca0a.jpg" width="50%">
 壁向き、または本棚向きにデスクが配置されており、共有の机やスペースとの間に仕切りはない。
 
