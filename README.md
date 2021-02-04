@@ -66,8 +66,18 @@
 # 考察
 研究室には基本的に、入って左手に本棚が5つ、ロッカー、傘立てと鏡が一体になったもの、教員用デスクなどが支給されており、本棚は位置が固定されている。またそのほかの椅子や机などは、教員の方の必要に応じて置かれている。それらの家具の向きや置く位置によって、次の3つのパターンがあると考察した。
 ### 見わたし型
+<img src="https://user-images.githubusercontent.com/50697920/106629177-e9c29580-65bd-11eb-83ae-9e02a312282f.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/50697920/106629180-eaf3c280-65bd-11eb-9eaf-d17135c1a169.jpeg" width="50%">
+<img src="　　　" width="50%">
+入り口に向かってデスクが配置されており、部屋全体を見渡せるような空間デザインになっている。先生方に伺った際には、「部屋に入ってきた人の顔がすぐに見えるように」「背後から音がするのが苦手だから」といった理由があった。また、もともとは仕切りを立てていたが窮屈だったため仕切りを外したという意見もあり、部屋を広く見渡せるようにデスクを置くことで、圧迫感のない部屋になっていると感じられた。
 
 ### 一体型
+<img src="https://user-images.githubusercontent.com/50697920/106629178-ea5b2c00-65bd-11eb-89c5-d7b275365970.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/50697920/106629176-e9c29580-65bd-11eb-94d2-cb104436c237.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/50697920/106629174-e929ff00-65bd-11eb-94ca-bc4a3e42b981.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/50697920/106694981-fde9af80-661c-11eb-9df0-8c9650edca0a.jpg" width="50%">
+壁向き、または本棚向きにデスクが配置されており、共有の机やスペースとの間に仕切りはない。
+
 ### 二分型
 
 
